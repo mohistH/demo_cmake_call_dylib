@@ -25,7 +25,7 @@ target_link_libraries(main hello_shared )
 ```
 
 
-##3、 three of this demo
+## 3、 three of this demo
 ```
 .
 │  CMakeLists.txt
@@ -49,7 +49,7 @@ target_link_libraries(main hello_shared )
 
 ```
 
-##4、the order of command
+## 4、the order of command
 A、configure dynamic library
 * cd ext/lib_hello/build
 * cmake ..
