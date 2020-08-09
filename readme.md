@@ -25,7 +25,7 @@ target_link_libraries(main hello_shared )
 ```
 
 
-## 3、 three of this demo
+## 3、 tree of this demo
 ```
 .
 │  CMakeLists.txt
